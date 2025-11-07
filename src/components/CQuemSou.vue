@@ -11,7 +11,6 @@
             <li><strong>Família:</strong> Pai de Duas Filhas</li>
         </ul>
 
-        <p>Um Amarantino a trabalhar em França, dedicado à família e à vida profissional.</p>
     </div>
 </template>    
 

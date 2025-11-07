@@ -13,7 +13,6 @@
             <li><strong>Experiência:</strong> Na empresa atual desde 2014</li>
         </ul>
 
-        <p>Um Amarantino com formação em Informática e mais de uma década de experiência a trabalhar em Paris como **Web Developer** e especialista em **PL/SQL Oracle**.</p>
     </div>
 </template>    
 

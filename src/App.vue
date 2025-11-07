@@ -30,7 +30,7 @@ function changeView(sVal){
         
         <ul>
         <li><a @click="changeView('COMP1')">Quem Sou</a></li> 
-        <li><a @click="changeView('COMP2')">Que Faco</a></li> 
+        <li><a @click="changeView('COMP2')">Que Faço</a></li> 
         <li><a @click="changeView('COMP3')">Hobbies</a></li>
         </ul>
 
